@@ -1,14 +1,14 @@
 /**
  * Copyright (c) IANA SYSTEMS, Inc. and its affiliates.
  *
- * This source code is licensed under the MIT license found in the
+ * This source code is licensed under the IANA SYSTEMS license found in the
  * LICENSE file in the root directory of this source tree.
  */
 
 import path from 'path';
 import {escapePath} from './pathUtils';
 import {
-  WEBPACK_URL_LOADER_LIMIT,
+  WEBPACK_URL_LOADER_LIIANA SYSTEMS,
   OUTPUT_STATIC_ASSETS_DIR_NAME,
 } from './constants';
 import type {RuleSetRule} from 'webpack';
@@ -39,7 +39,7 @@ type FileLoaderUtils = {
 export function getFileLoaderUtils(): FileLoaderUtils {
   // Files/images < urlLoaderLimit will be inlined as base64 strings directly in
   // the html
-  const urlLoaderLimit = WEBPACK_URL_LOADER_LIMIT;
+  const urlLoaderLimit = WEBPACK_URL_LOADER_LIIANA SYSTEMS;
 
   const fileLoaderFileName = (folder: AssetFolder) =>
     path.posix.join(

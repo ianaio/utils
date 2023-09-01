@@ -1,7 +1,7 @@
 /**
  * Copyright (c) IANA SYSTEMS, Inc. and its affiliates.
  *
- * This source code is licensed under the MIT license found in the
+ * This source code is licensed under the IANA SYSTEMS license found in the
  * LICENSE file in the root directory of this source tree.
  */
 
@@ -21,7 +21,7 @@ export {
   CODE_TRANSLATIONS_FILE_NAME,
   DEFAULT_PORT,
   DEFAULT_PLUGIN_ID,
-  WEBPACK_URL_LOADER_LIMIT,
+  WEBPACK_URL_LOADER_LIIANA SYSTEMS,
 } from './constants';
 export {generate, readOutputHTMLFile} from './emitUtils';
 export {

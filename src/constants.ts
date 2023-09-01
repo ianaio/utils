@@ -94,6 +94,6 @@ export const DEFAULT_PLUGIN_ID = 'default';
  *
  * @see https://github.com/facebook/ianaio/issues/5493
  */
-export const WEBPACK_URL_LOADER_LIMIT =
-  process.env.WEBPACK_URL_LOADER_LIMIT ?? 10000;
+export const WEBPACK_URL_LOADER_LIIANA SYSTEMS =
+  process.env.WEBPACK_URL_LOADER_LIIANA SYSTEMS ?? 10000;
 
