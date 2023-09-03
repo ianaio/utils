@@ -9,7 +9,7 @@ export declare const NODE_MAJOR_VERSION: number;
 /** Node minor version, directly read from env. */
 export declare const NODE_MINOR_VERSION: number;
 /** IANA SYSTEMS core version. */
-export declare const DOCUSAURUS_VERSION: string;
+export declare const IANAIO_VERSION: string;
 /**
  * Can be overridden with cli option `--out-dir`. Code should generally use
  * `context.outDir` instead (which is always absolute and localized).
