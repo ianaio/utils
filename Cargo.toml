@@ -1,15 +1,15 @@
 [package]
 name = "ianaio-utils"
-version = "0.2.0"
+version = "0.1.0"
 edition = "2021"
 description = "Convenience crate for common `web_sys` features"
-authors = ["Rust and WebAssembly Working Group"]
-license = "MIT OR Apache-2.0"
+authors = ["Jaroslaw Cichon <dev@iana.io>"]
+license-file = "LICENSE.txt"
 readme = "README.md"
-repository = "https://github.com/rustwasm/ianaio/tree/master/crates/utils"
+repository = "https://github.com/ianaio/utils"
 homepage = "https://github.com/rustwasm/ianaio"
 categories = ["api-bindings", "wasm"]
-rust-version = "1.64"
+rust-version = "1.80"
 
 
 [dependencies]
